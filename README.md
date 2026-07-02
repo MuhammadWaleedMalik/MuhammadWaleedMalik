@@ -15,7 +15,7 @@
 
 * 🚀 **Expertise:** Full Stack Web Development & Scalable Systems.
 * 🏢 **Current Role:** Engineering at **Atlas Nexus Corps**.
-* 🌐 **Website:** [muhammadwaleedmalik.github.io](https://muhammadwaleedmalik.github.io/)
+* 🌐 **Website:** [muhammadwaleedmalik.github.io](https://muhammadwaleedmalik.github.io/MyPortfolio/)
 * 🧠 **Focus:** Crafting clean, performant, and secure code.
 * 📫 **Reach Me:** [muhammadwaleedakhtar240@gmail.com](mailto:muhammadwaleedakhtar240@gmail.com)
 * ⚡ **Philosophy:** If it isn't automated, it isn't finished.
