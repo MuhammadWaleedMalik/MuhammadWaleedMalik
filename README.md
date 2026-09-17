@@ -3,18 +3,9 @@
 <div align="center">
 
   <picture>
-    <source
-      media="(prefers-reduced-motion: reduce) and (max-width: 600px)"
-      srcset="./assets/profile-mobile-static.svg"
-    />
-    <source
-      media="(prefers-reduced-motion: reduce)"
-      srcset="./assets/profile-static.svg"
-    />
-    <source
-      media="(max-width: 600px)"
-      srcset="./assets/profile-mobile.svg"
-    />
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="./assets/profile-mobile-static.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-static.svg" />
+    <source media="(max-width: 600px)" srcset="./assets/profile-mobile.svg" />
     <img
       src="./assets/profile.svg"
       width="100%"
@@ -25,25 +16,13 @@
   <br />
 
   <a href="https://muhammadwaleedmalik.github.io/MyPortfolio/">
-    <img
-      src="./assets/button-portfolio.svg"
-      width="260"
-      alt="View my portfolio"
-    />
+    <img src="./assets/button-portfolio.svg" width="260" alt="View my portfolio" />
   </a>
   <a href="https://github.com/MuhammadWaleedMalik">
-    <img
-      src="./assets/button-github.svg"
-      width="260"
-      alt="Explore my GitHub repositories"
-    />
+    <img src="./assets/button-github.svg" width="260" alt="Explore my GitHub repositories" />
   </a>
   <a href="mailto:muhammadwaleedakhtar240@gmail.com">
-    <img
-      src="./assets/button-email.svg"
-      width="260"
-      alt="Email Muhammad Waleed Akhtar"
-    />
+    <img src="./assets/button-email.svg" width="260" alt="Email Muhammad Waleed Akhtar" />
   </a>
 
 </div>
